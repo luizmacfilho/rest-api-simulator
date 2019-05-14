@@ -1,6 +1,6 @@
 # REST API Simulator
 
-A Node API to creates CRUD routes and retreives random data from other APIs or from a configured metadata file.
+A Node API to creates CRUD routes and retrieves random data from configured APIs or from a metadata file.
 
 ## Requirements
 
